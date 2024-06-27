@@ -1,5 +1,5 @@
 name: On issues
-on: issues
+on: [issues, workflow_dispatch]
 
 jobs:
   print-output-info:
